@@ -7,7 +7,6 @@ A very small Python script that performs basic data-quality checks on a
 - Counts how many rows are missing an **email**
 - Counts how many rows have an **invalid email format**
 
-This is a minimal example for working with CSV files and data quality checks.
 
 ---
 
