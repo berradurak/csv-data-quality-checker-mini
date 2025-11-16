@@ -1,4 +1,4 @@
-# CSV Data Quality Checker (Mini Version)
+# CSV Data Quality Checker - Mini
 
 A very small Python script that performs basic data-quality checks on a
 `customers.csv` file:
