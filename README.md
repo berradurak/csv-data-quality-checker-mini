@@ -8,16 +8,3 @@ A very small Python script that performs basic data-quality checks on a
 - Counts how many rows have an **invalid email format**
 
 
----
-
-## Example CSV format
-
-
-```csv
-customer_id,name,email
-1,Alice Smith,alice@example.com
-2,Bob,bob.example.com
-3,,no-name@example.com
-4,Charlie,charlie@
-5,David,
-6,,
