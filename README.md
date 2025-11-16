@@ -13,7 +13,6 @@ This is a minimal example for working with CSV files and data quality checks.
 
 ## Example CSV format
 
-The script expects a file at `data/customers.csv` with at least the columns:
 
 ```csv
 customer_id,name,email
